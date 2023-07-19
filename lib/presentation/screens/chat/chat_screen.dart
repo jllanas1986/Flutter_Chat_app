@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:yes_no_app/presentation/widgets/chat/her_message_bubble.dart';
 import 'package:yes_no_app/presentation/widgets/chat/my_message_bubble.dart';
 
 class ChatScreen extends StatelessWidget {
@@ -29,12 +30,14 @@ class _ChatView extends StatelessWidget {
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 10),
         child: Column(children: [
-          Expanded(child: ListView.builder(
+          Expanded(
+              child: ListView.builder(
             itemCount: 100,
             itemBuilder: (context, index) {
-              return const MyMessageBubble();
-            },
-          )),
+              return (index % 2 == 0)
+                  ? const HerMessageBubble()
+                  : const MyMessageBubble();
+            })),
           Text('Mundo')
         ]),
       ),
