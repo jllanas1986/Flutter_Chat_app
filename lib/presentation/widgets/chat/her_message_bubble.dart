@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 
 class HerMessageBubble extends StatelessWidget {
@@ -23,6 +24,7 @@ class HerMessageBubble extends StatelessWidget {
             )),
         const SizedBox(height: 5),
         _ImageBubble(),
+        SizedBox(height: 10),
         //todo:imagen
       ],
     );
@@ -32,7 +34,15 @@ class HerMessageBubble extends StatelessWidget {
 class _ImageBubble extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Image.network(
-        'https://yesno.wtf/assets/yes/0-c44a7789d54cbdcad867fb7845ff03ae.gif');
+    final size = MediaQuery.of(context).size;
+
+    return ClipRRect(
+        borderRadius: BorderRadius.circular(20),
+        child: Image.network(
+          'https://yesno.wtf/assets/yes/0-c44a7789d54cbdcad867fb7845ff03ae.gif',
+          width: size.width * 0.7,
+          height: 150,
+          fit: BoxFit.cover,
+        ));
   }
 }
