@@ -35,21 +35,25 @@ class _ChatView extends StatelessWidget {
     return SafeArea(
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 10),
-        child: Column(children: [
-          Expanded(
-              child: ListView.builder(
-                  itemCount: chatProvider.messageList.length,
-                  itemBuilder: (context, index) {
-                    final message = chatProvider.messageList[index];
+        child: Column(
+          children: [
+            Expanded(
+                child: ListView.builder(
+                    itemCount: chatProvider.messageList.length,
+                    itemBuilder: (context, index) {
+                      final message = chatProvider.messageList[index];
 
-                    return (message.fromWho == FromWho.hers)
-                        ? const HerMessageBubble()
-                        : const MyMessageBubble();
-                  })),
+                      return (message.fromWho == FromWho.hers)
+                          ? const HerMessageBubble()
+                          : MyMessageBubble(message: message);
+                    })),
 
-          /// Caja de texto de mensajes
-          const MessageFieldBox(),
-        ]),
+            /// Caja de texto de mensajes
+            MessageFieldBox(
+              onValue: chatProvider.sendMessage,
+            ),
+          ],
+        ),
       ),
     );
   }
