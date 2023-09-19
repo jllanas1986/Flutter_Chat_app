@@ -2,11 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+Chat_app es un proyecto diseñado con Flutter en el que se desarrolla un chat de respuesta afirmativa, negativa o de posibilidad aleatoriamente. 
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Diseño📝
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
