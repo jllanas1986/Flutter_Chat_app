@@ -43,6 +43,7 @@ Entre otros.
 ![chat1](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/d5ba6e95-b70a-4033-8ca9-7e7f44b37d83)
 ![chat2](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/6d4752a1-ce4f-497c-9431-b298e2e63138)
 
+https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/1bf2bc53-03ee-4444-ad0d-843b56ed6814
 
 
 ## Funcionalidad 🔩
@@ -68,6 +69,12 @@ Se ha trabajado con:
 * Provider
 
 Aprender esta funcionalidad genera una buena base de como alojar el estado fuera de los widgets y que los widgets se actualicen y tomen la información que necesitan del gestor de estado.
+
+
+
+https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/8c4a0b1e-2ed5-4c2a-98ac-ba7f8a54b3ab
+
+
 
 ## Autor ✒️
 
