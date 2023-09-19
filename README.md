@@ -1,4 +1,5 @@
-# Chat_app
+
+![chat](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/c3c58c80-82ae-4a5d-bbc5-5e1f67fbb79a)
 
 
 Chat_app es un proyecto diseñado con Flutter en el que se desarrolla un chat de respuesta afirmativa, negativa o de posibilidad, de forma aleatoria.
