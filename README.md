@@ -74,8 +74,7 @@ Aprender esta funcionalidad genera una buena base de como alojar el estado fuera
 
 https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/8c4a0b1e-2ed5-4c2a-98ac-ba7f8a54b3ab
 
-
-
+https://youtube.com/shorts/bmJp2lTBVAg
 
 ## Autor ✒️
 
