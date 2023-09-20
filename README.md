@@ -1,6 +1,6 @@
 
 
-
+![logo chat](./assets/logo.png)
 
 
 Chat_app es un proyecto diseñado con Flutter en el que se desarrolla un chat de respuesta afirmativa, negativa o de posibilidad, de forma aleatoria.
@@ -41,6 +41,9 @@ También se ha trabajado con:
 
 Entre otros.
 
+![logo chat](./assets/chat.png)
+![logo chat](./assets/chat1.png)
+
 
 
 ## Funcionalidad 🔩
@@ -75,4 +78,4 @@ Aprender esta funcionalidad genera una buena base de como alojar el estado fuera
 
 ## Autor ✒️
 
-- **Jose Llanas** - 
+- **Jose Llanas** - [jllanas1986](https://github.com/jllanas1986)
