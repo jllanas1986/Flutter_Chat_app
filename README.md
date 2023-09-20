@@ -44,7 +44,10 @@ Entre otros.
 ![logo chat](./assets/chat.png)
 ![logo chat](./assets/chat1.png)
 
-[![Alt text](https://img.youtube.com/vi/bmJp2lTBVAg/0.jpg)](https://www.youtube.com/watch?v=bmJp2lTBVAg)
+
+[* Ver funcionalidad del teclado](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/587b421d-916e-4c5f-b7cf-bc7cd9cfc16a)
+
+
 
 
 ## Funcionalidad 🔩
