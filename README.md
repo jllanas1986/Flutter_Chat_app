@@ -46,6 +46,12 @@ Entre otros.
 
 
 
+
+[![teclado](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/bff50df7-2784-4371-bde8-f100f5747a4b)](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/bff50df7-2784-4371-bde8-f100f5747a4b)
+
+
+
+
 ## Funcionalidad 🔩
 
 Para la funcionalidad se ha implementado una llamada a una API a través de DIO, la API esta configurada para devolver de forma aleatoria un mensaje de si, no o podría ser acompañado de un gif temático.
