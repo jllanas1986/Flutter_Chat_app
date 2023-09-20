@@ -45,7 +45,7 @@ Entre otros.
 ![logo chat](./assets/chat1.png)
 
 
-[* Ver funcionalidad del teclado](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/587b421d-916e-4c5f-b7cf-bc7cd9cfc16a)
+[teclado](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/587b421d-916e-4c5f-b7cf-bc7cd9cfc16a)
 
 
 
@@ -75,9 +75,7 @@ Se ha trabajado con:
 Aprender esta funcionalidad genera una buena base de como alojar el estado fuera de los widgets y que los widgets se actualicen y tomen la información que necesitan del gestor de estado.
 
 
-
-
-
+[response](https://github.com/jllanas1986/Flutter_Chat_app/assets/122029674/7fb2d6ca-9630-4422-9f45-21840370d3a3)
 
 
 ## Autor ✒️
