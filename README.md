@@ -9,7 +9,7 @@ El desarrollo de esta app consta de dos partes, primeramente el diseño y despu�
 
 ## Diseño📝
 
-Ademas de las siguientes implementaciones, destacar la configuración para que el cuadro del chat siempre muestre los últimos mensajes recibidos y enviados y se vayan ocultando los mas antiguos a medida que la pantalla muestra lo ultimo.
+Además de las siguientes implementaciones, destacar la configuración para que el cuadro del chat siempre muestre los últimos mensajes y se vayan ocultando los mas antiguos a medida que la pantalla muestra lo ultimo.
 
 También destacar, la configuración para que al hacer click fuera del teclado, este se oculte.
 
