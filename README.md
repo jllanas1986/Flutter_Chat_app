@@ -64,9 +64,6 @@ Se ha trabajado con:
 Aprender esta funcionalidad genera una buena base de como alojar el estado fuera de los widgets y que los widgets se actualicen y tomen la información que necesitan del gestor de estado.
 
 
-
-
-
 ## Autor ✒️
 
 - **Jose Llanas** - [jllanas1986](https://github.com/jllanas1986)
